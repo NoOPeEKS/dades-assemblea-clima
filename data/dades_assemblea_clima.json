@@ -1,0 +1,1332 @@
+{
+  "id": "562",
+  "slug": "assembleaclima",
+  "publishedAt": "2023-09-13T13:28:49+02:00",
+  "stats": [
+    {
+      "name": "results_count",
+      "value": 0
+    },
+    {
+      "name": "posts_count",
+      "value": 0
+    },
+    {
+      "name": "budgets_count",
+      "value": 0
+    },
+    {
+      "name": "debates_count",
+      "value": 0
+    },
+    {
+      "name": "meetings_count",
+      "value": 6
+    },
+    {
+      "name": "pages_count",
+      "value": 4
+    },
+    {
+      "name": "proposals_count",
+      "value": 58
+    },
+    {
+      "name": "sortitions_count",
+      "value": 0
+    },
+    {
+      "name": "surveys_count",
+      "value": 1
+    }
+  ],
+  "components": [
+    {
+      "id": "3827",
+      "name": {
+        "translation": "Propostes ciutadanes"
+      },
+      "proposals": {
+        "edges": [
+          {
+            "node": {
+              "id": "87446",
+              "state": "evaluating",
+              "author": {
+                "name": "Concepción Moreno Maurel"
+              },
+              "title": {
+                "translation": "Participar Assemblea Ciutadana pel Clima de Catalunya"
+              },
+              "body": {
+                "translation": "<p>Buenos días, me gustaría participar en la asamblea ciudadana para el clima de Cataluña.</p><p>Es un tema de mucho interés y actual, que me interesa bastante, y así poder aportar mi granito de arena.</p><p>Muchas gracias,</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87447",
+              "state": "evaluating",
+              "author": {
+                "name": "Isabel Soria Muñoz"
+              },
+              "title": {
+                "translation": "Assemblea ciutadana pel clima de Catalunya"
+              },
+              "body": {
+                "translation": "<p>M'agradaria participar en aquesta assemblea pel clima, en cas que no rebi la carta aleatòria.</p><p>És un tema que m'interessa moltíssim i em poso a disposició per a poder participar.</p><p>Gràcies.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53292",
+                  "author": {
+                    "name": "JORGE MANUEL"
+                  },
+                  "body": "L'emergència climàtica ens afecta a tots els habitants del planeta, humans i no humans.\nLa responsabilitat que tots hauriem d'assumir és la de deixar per a les generacions que ens seguiran la possibilitat de  gaudir d'un lloc on poder viure en harmonia amb la natura per poder tenir un futur viable per a tots els habitants del planeta.\n\nNo s'hi val inhibirse i molt menys negar que la humanitat està, juntament amb moltes altres espècies, en greu risc de desaparèixer si no som capaços de revertir les emissions dels gasos que estant causant aquesta emergència.\nCal que siguem molts més exigint a governs i industries, i a nosaltres mateixos individualment, accions per a donar un futur viable i sostenible. Cada pas en aquest sentit, per petit que pugui semblar, és una fita per als que vindran després de nosaltres.",
+                  "alignment": 0,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87450",
+              "state": null,
+              "author": {
+                "name": "ramonferre"
+              },
+              "title": {
+                "translation": "Municipi a municipi, empresa a empresa, família a família"
+              },
+              "body": {
+                "translation": "<p>Cada municipi (empresa i família) ha de rebre recursos per planificar reducció i eficiència consum de matèries, aliments, aigua i energia, alhora que la seva consecució estable, propera i sostenible en el temps. A partir de les accions i resultats ha de rebre més suport fiscal que els que no. El barem ha de ser tècnic i transparent i ha d'incloure criteris de justícia social. Alhora ha de contemplar el grau de solidaritat en excedents envers poblacions (empreses/famílies) veïnes properes.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53324",
+                  "author": {
+                    "name": "Jordi Sanjuan Fuentes "
+                  },
+                  "body": "Ho veig molt bé.  Però és tendría que poder trobar la manera que tothom pugui accedir-hi.  Treure burocràcia. Hi hà qui no pot ni aïllar-se tèrmicament el pis\n (Es el mes eficient) els materials són caríssims i accedir a les ajudes es tan farragos, que acabes no fent-lo.  🤷🏻‍♂️ ",
+                  "alignment": 1,
+                  "comments": []
+                },
+                {
+                  "id": "53355",
+                  "author": {
+                    "name": "Nora Stalins"
+                  },
+                  "body": "agreed. There should be technical transparency and social justice to ensure fairness. ",
+                  "alignment": 1,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87451",
+              "state": null,
+              "author": {
+                "name": "ramonferre"
+              },
+              "title": {
+                "translation": "Municipi a municipi, empresa a empresa, família a família"
+              },
+              "body": {
+                "translation": "<p>Cada municipi (empresa i família) ha de rebre recursos per planificar reducció i eficiència consum de matèries, aliments, aigua i energia, alhora que la seva consecució estable, propera i sostenible en el temps. A partir de les accions i resultats ha de rebre més suport fiscal que els que no. El barem ha de ser tècnic i transparent i ha d'incloure criteris de justícia social. Alhora ha de contemplar el grau de solidaritat en excedents envers poblacions (empreses/famílies) veïnes properes.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87452",
+              "state": null,
+              "author": {
+                "name": "ramonferre"
+              },
+              "title": {
+                "translation": "Transició a producció, comerç i consum ecològics locals"
+              },
+              "body": {
+                "translation": "<p>La producció, comerç i consum d'aliments no ecològics i no locals haurien d'estar prohibits. Imprescindible planificació transició activa i estable en sentit fiscal i autonomia local màxima possible, prioritzant solidaritat veïnal amb territoris propers fent xarxa de seguretat. Si un territori és deficitari, primer ha de veure si el pot produir, si no, ha de veure quin territori més proper possible pot negociar la seva obtenció. Si n'és excedentari, a la inversa. Balanços han d ser púbics</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87453",
+              "state": null,
+              "author": {
+                "name": "ramonferre"
+              },
+              "title": {
+                "translation": "L'aigua, el principal aliment."
+              },
+              "body": {
+                "translation": "<p>La major part dels pous catalans ni són legals ni es fa el seu monitoratge en continu de manera pública i transparent. Les dessaladores no són sostenibles, haurien de ser amb solar tèrmica passiva i la salmorra ha de deixar de ser un residu. Totes les depuradores haurien de tenir terciari. Tots els edificis i estructures artificials haurien de recollir i emmagatzemar aigua de pluja com fins fa 100 anys. Ja s'ha demostrat que el regadiu en terreny de secà no és sostenible en el temps.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87454",
+              "state": null,
+              "author": {
+                "name": "ramonferre"
+              },
+              "title": {
+                "translation": "Prohibir construccions no bioclimàtiques"
+              },
+              "body": {
+                "translation": "<p>La normativa no hauria de permetre cap construcció ni edificació que no tingui balanç energètic, materials, recollida i emmagatzemament d'aigua positius. Cap projecte d'obra nova o reforma ha de rebre el permís sense balanç positiu. Cal nous recursos als serveis d'inspecció i sanció. Les inspeccions han de ser també posteriors a disposar de les construccions funcionals per tal d'assegurar la seva funcionalitat i corregir defectes o actualitzar mesures. Transició amb fiscalitat progressiva</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87458",
+              "state": null,
+              "author": {
+                "name": "Níkola"
+              },
+              "title": {
+                "translation": "Projectes del futur"
+              },
+              "body": {
+                "translation": "<p>Hola, sóc un jove graduat en enginyeria; M'agradaria poder participar a l'Assamblea per poder aportar els meus coneixements, creativitat i posar la meva educació medioambiental rebuda a la carrera a disposició del poble, oferint-me a participar en projectes que fagin Catalunya més neta i sostenible. Per mi seria un plaer escoltar les necessitats que tenim i executar els projectes que les cobreixin o inclús poder proposar algun dels meus projectes personals que us podrien interessar.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87460",
+              "state": null,
+              "author": {
+                "name": "JAUME"
+              },
+              "title": {
+                "translation": "Ordenació medioambiental. Tractament dels residus. Circuit d'aigües. Aprofitament forestal. Producció energètica. "
+              },
+              "body": {
+                "translation": "<p>1.- Residus: Es podria instal.lar màquines de recollida de llaunes i ampolles de plàstic, amb gratificació de tiquets per gastar en el comerç local. També es podria reinstaurar l'ús del vidre.</p><p>2.- Els edificis haurien de tenir un doble circuit d'aigües que recollis la del lavabo, rentadora i rentavaixelles per usar-ho en el vater.</p><p>3.- Neteja i recuperació de boscos.</p><p>4.- Instal.lació de plaques solars a les teulades de tots els edificis públics.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87461",
+              "state": null,
+              "author": {
+                "name": "JOSEP"
+              },
+              "title": {
+                "translation": "Procés de selecció "
+              },
+              "body": {
+                "translation": "<p>Referent al procés de selecció, no entenc perquè s envíen aleatòriament la oportunitat de poder participar. Hi ha gent que no li pot interessar participar o li manquen idees, en canvi altre/as amb idees no. Com a molt poden ser llegits, a part dels 100 que hagin estat escollits.</p><p>Jo me'n vaig assabentar ahir d'aquest procés participatiu, faltaria més difusió i que presenti propostes qui en tingui, no pas a qui li toqui.</p><p>Gràcies.</p>"
+              },
+              "category": null,
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53315",
+                  "author": {
+                    "name": "MARC"
+                  },
+                  "body": "Penso el mateix. A més us esteu gastant uns diners en publicitat a mitjans de comunicació que podriem entendre com enganyosa, ja que dieu que es una assamblea ciutadana i que tothom i pot participar, encanvi és una assamblea RESTRINGIDA on només els previament seleccionats podran tenir l'oportunitat de aprticipar.",
+                  "alignment": 1,
+                  "comments": []
+                },
+                {
+                  "id": "53337",
+                  "author": {
+                    "name": "JORDI"
+                  },
+                  "body": "Penso el mateix",
+                  "alignment": 0,
+                  "comments": []
+                },
+                {
+                  "id": "53380",
+                  "author": {
+                    "name": "jackwilliam"
+                  },
+                  "body": "you are right. Every citizen can participate in it. Also, I want to give information about <a href=\"https://www.genericmedsstore.com/product/vidalista/\"><strong>Vidalista</strong></a> to treat men's ED problems.\nvisit Here Vidalista Information: https://www.genericmedsstore.com/product/vidalista/\n",
+                  "alignment": 0,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87462",
+              "state": null,
+              "author": {
+                "name": "MARGARITA"
+              },
+              "title": {
+                "translation": "Decreixement, Aigua i Sobirania alimentària agroecològica"
+              },
+              "body": {
+                "translation": "<p>Estem entrant en un caos climàtic terrible. <strong><u>Aigua i Sobirania alimentària agroecològica</u></strong> haurien de vestir tot el procés de l'assamblea. Sense aquests elements assegurats no hi pot haver vida. Això només es pot garantir si comencem a parlar de <strong><u>Decreixement </u></strong>en molts àmbits.</p><p><strong>Creixement infinit en un planeta finit, no és possible.</strong></p>"
+              },
+              "category": null,
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87464",
+              "state": null,
+              "author": {
+                "name": "JOAN"
+              },
+              "title": {
+                "translation": "Apropament entre generació i consum d'energia en polígons industrials"
+              },
+              "body": {
+                "translation": "<p>Crec que caldria potenciar l'apropament entre la producció i el consum d'energia. Donaria lloc a una descentralització, evitant grans infraestructures i pèrdues energètiques en el seu transport. En el cas de l'energia elèctrica i els polígons industrials, proposo incentivar, per no dir obligar, que totes les naus industrials aprofitin els sostres per la instal·lació de plaques solars, sigui per autoconsum o per subministrar energia elèctrica al propi polígon industrial.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53325",
+                  "author": {
+                    "name": "JOFRE"
+                  },
+                  "body": "Alhora, s'hauria de legislar que les empreses de polígons a partir de x treballadors, es posin d'acord amb el seu ajuntament per fer autobusos llançadora des del poble fins a l'empresa.\nCom també fer que les empreses hagin de contractar abans la gent del seu poble abans que la de fora.\nObligar a les grans empreses a fer sostres amb plaques solars a les empreses i als seus aparcaments.\nTambé les grans empreses o els ajuntaments  podrien posar servei de lloguer de patinets i/o bicis elèctriques per anar i tornar a treballar i oferir la càrrega elèctrica de franc a l'empreda i alhora l'empresa rebre una compensació en els impostos",
+                  "alignment": 0,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87465",
+              "state": null,
+              "author": {
+                "name": "Sílvia Bassas Auferil"
+              },
+              "title": {
+                "translation": "Participació a l’assemblea"
+              },
+              "body": {
+                "translation": "<p>Em poso a disposició a participar en l'assemblea ciutadana pel clima en cas que no s'assoleixin els 100 participants requerits, ja que no he rebut la invitació aleatòria per poder-me inscriure.</p><p>Gràcies.</p>"
+              },
+              "category": null,
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87466",
+              "state": null,
+              "author": {
+                "name": "MIQUEL"
+              },
+              "title": {
+                "translation": "Explotació racional i SOLIDÀRIA dels boscos"
+              },
+              "body": {
+                "translation": "<p>Els AJ’s reclutarien Persones sense sostre, Sense papers, Ex-tutelats, “treballs en benefici de la societat”, Reclusos en 3er grau, etc&nbsp;i els oferiria: Papers; Habitatge, Menjar; Petita remuneració econòmica.</p><p>Els AJ gestionarien les restes vegetals rendibilitzant-les: venda de fusta, llenya, compostatge, pellets per les centrals tèrmiques...</p><p>Aquestes accions crearien molts llocs de treball i dignificarien la vida de milers de nou-vinguts.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87467",
+              "state": null,
+              "author": {
+                "name": "SERGI"
+              },
+              "title": {
+                "translation": "Compensació obligatòria de les emissions de cotxe i avió"
+              },
+              "body": {
+                "translation": "<p>Caldria canviar el programa actual de compensació d'emissions de CO2 que actualment es pot fer de manera voluntària al vostre web canviclimatic.gencat.cat via p.ex www.sendeco2.com.</p><p>Caldria que fos obligatori (a empreses i particulars) per a totes les emissions de CO2 fetes amb el cotxe i l'avió (com serien una ecotaxa en la benzina i en el bitllet d'avió) per repercutir-ho en programes de compensació de CO2 al país. Igualment caldria veure com fer-ho en el cas elèctric/calefacció.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87468",
+              "state": null,
+              "author": {
+                "name": "SERGI"
+              },
+              "title": {
+                "translation": "Desplegament xarxa d'hidrogen i punts de càrrega de vehicles elèctrics arreu"
+              },
+              "body": {
+                "translation": "<p>Caldria apostar fermament tant pel vehicle elèctric (pels trajectes comarcals) com per al transport per hidrogen (per a vehicles privats quan existeixi en trajectes llargs) i per a la resta de transports. Una xarxa de recàrrega elèctrica i d'hidrogen que fos extraordinària a tot el país, com s'ha fet amb la fibra, de tal manera que cap ciutadà tingués una electrolinera/\"hidrogeninera\" a menys de 15 min de trajecte, especialment al Pirineu i zones rurals, a banda de ciutats i àrees de pas</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53323",
+                  "author": {
+                    "name": "Jordi Sanjuan Fuentes "
+                  },
+                  "body": "Molt d'acord ",
+                  "alignment": 1,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87469",
+              "state": null,
+              "author": {
+                "name": "SERGI"
+              },
+              "title": {
+                "translation": "Sistema de calculadora/compensació rural efectiva d'emissions CO2 on s'hi sumi el CO2 \"netejat\" pels boscos en propietat"
+              },
+              "body": {
+                "translation": "<p>Caldria que crear un sistema per a propietaris rurals i ramaders/agrícoles en què, si s'han d'aplicar taxes per contaminació de dejeccions del bestiar, s'apliqui un càlcul en què s'hi sumi el valor aprox de CO2 que descontaminen els boscos dels terrenys en propietat d'aquella masia/terme. De la mateixa manera que una granja pot causar emissions, si el pagès té boscos en propietat que \"netegen\" part o tot el CO2 emès, caldria fer aquest equilibri per evitar carregar + taxes als pagesos.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87470",
+              "state": null,
+              "author": {
+                "name": "SERGI"
+              },
+              "title": {
+                "translation": "Prioritzar el desplegament d'energia renovable en terrenys antropotitzats o compatibles amb l'agricultura"
+              },
+              "body": {
+                "translation": "<p>Caldria crear un desplegament d'energies renovables (bàsicament solar) en terrenys antropotitzats que ja tinguem a Catalunya, com són vorals d'autovies (que no afectin a la circulació), espais i sostres de polígons, aparcaments a l'aire lliure, etc. Per tal d'evitar que es perdin centenars/milers d'hectàrees agroforestals. O en tot cas, fer compatible l'agricultura amb les renovables (p.ex, que conreus de fruiters/vinya estiguin coberts per plaques, en l'anomenada \"energia agrivoltaica\")</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87472",
+              "state": null,
+              "author": {
+                "name": "ROMAN"
+              },
+              "title": {
+                "translation": "Participació en l'Asamblea"
+              },
+              "body": {
+                "translation": "<p>M'agradaria participar en aquesta assemblea pel clima, en cas que no rebi la carta aleatòria i en el cas que no s'arribes al nivell de persones requerides.</p><p>Roman.</p>"
+              },
+              "category": null,
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87475",
+              "state": null,
+              "author": {
+                "name": "Jordi Sala Morell"
+              },
+              "title": {
+                "translation": "Participar des de la psicologia climàtica"
+              },
+              "body": {
+                "translation": "<p>M’agradaria participar en aquest procés des de la perspectiva de la psicologia climàtica. Soc psicòleg clínic amb més de trenta anys d’experiència.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87487",
+              "state": null,
+              "author": {
+                "name": "VERONICA"
+              },
+              "title": {
+                "translation": "Voluntaria- amb ganes d'aprendre i poder conscienciar"
+              },
+              "body": {
+                "translation": "<p>Hola! He estat esperant la carta tot el mes pero no hi ha manera, aixì que faig proposta personal ja que m'agradaria participar en aquesta assemblea per poder aprendre i poder aportar les meves idees.</p><p>Estic segura que molta gent que rebi la carta no sap el que és perqué aquests temes no els hi interessa però a mi, personalment, si i molt; aixì que m'agradaria molt poder fer part d'awuest equip.</p><p>Moltes gràcies per la consideració,</p><p>Vero</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87488",
+              "state": null,
+              "author": {
+                "name": "Sam"
+              },
+              "title": {
+                "translation": "Geotermia dins de la matriu energètica"
+              },
+              "body": {
+                "translation": "<p>La geotermia apenes apareix en la matriu energètica per a la transició o descarbonització. Cal posar-la en valor.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87489",
+              "state": null,
+              "author": {
+                "name": "Sam"
+              },
+              "title": {
+                "translation": "Ramaderia de pasturatge "
+              },
+              "body": {
+                "translation": "<p>La ramaderia extensiva de pasturatge no es computa igual que la intensiva i son oposades en generació de CO2, valor paisagistic, alimentari, resiliencia, biodiversitat, gestió de residus, prevenció d'incendis...</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87499",
+              "state": null,
+              "author": {
+                "name": "Inara Hasanova Gasanova"
+              },
+              "title": {
+                "translation": "Condensació per a regar plantes"
+              },
+              "body": {
+                "translation": "<p>Treballo per renaturalitzar patis d'escola. Falta la vegetació i que les mestres sapiguen com gestionar-la i no li tinguin por (moltes són gent jove urbanita i no han tingut prou contacte amb plantes per tenir-les confiança). Una de les coses principales que genera dubtes és com regarien plantes. Proposo utilitzar la condensació com métode principal de reg, a més de plantar arbustos autòctons. La condensació es pot estudiar a l'escola, es pot fer moltes proves, crear petites estructures.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87500",
+              "state": null,
+              "author": {
+                "name": "Jordi Sanjuan Fuentes "
+              },
+              "title": {
+                "translation": "Menjar km 0 sense els abusos dels intermediaris. "
+              },
+              "body": {
+                "translation": "<p>Volem poder menjar aliments de qualitat i proximitat. Però s'ens fa difícil poder contactar amb pagesos de la nostra zona. Facilitar l'accés i la distribució d'aliments de km 0, ajudaria als nostres pagesos econòmicament i nosaltres podríem accedir a uns aliments que ara no podem. Son massa cars.</p><p>Una empresa municipal de distribució, podria donar feina a població vulnerable, possibilitat d'accedir a aliments de qualitat a la majoria de població, i preus justos per als pagesos.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87501",
+              "state": null,
+              "author": {
+                "name": "Jordi Sanjuan Fuentes "
+              },
+              "title": {
+                "translation": "Aprofitament de l'aigua a les ciutats"
+              },
+              "body": {
+                "translation": "<p>Obligar a reaprofitar l'aigua de les dutxes o els aires condicionats per als WC, no es cap disbarat. Fas que els desaigües d'aquests aparells vagin a parar a una cisterna comunitària, d'on treus el tub d'alimentació de tots els WC. ESTEM TIRANT AIGUA POTABLE PER EL WC! Un aire condicionat, alimentat amb plaques fotovoltaiques. Conecta el desaigüe a una cisterna. Tens aigua gratuïta per poder regar el jardí. Hi hà molt per fer, si us plau, seny. P. D. Deixeu poc espai per escriure.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87502",
+              "state": null,
+              "author": {
+                "name": "Francesc"
+              },
+              "title": {
+                "translation": "Compensació del reciclatje"
+              },
+              "body": {
+                "translation": "<p>Compensar econòmicament als ciutadans que dipositin paper, llaunes, plàstic, vidre i piles o bateries en contenidors als supermercats o determinats agrupacions de comerciants per promoure a més les compres de proximitat i al petit comerç.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87503",
+              "state": null,
+              "author": {
+                "name": "Eduardo "
+              },
+              "title": {
+                "translation": "Reciclatge millor i bonificacions "
+              },
+              "body": {
+                "translation": "<p>No fem bé, la bonificació ni el reciclatge, se tindria que disposar de contenidors inteligentes i bonificar cada vegada que es deixen bé, els residus separats , ademes de fer illes on puguis deixa els mobles,trastos, materials més complicats també amb la clau de indentificaçio ,com es fa amb las deixalleries tant fixes com mòbils i bonificar amb el pagament de la taxa de residus</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87504",
+              "state": null,
+              "author": {
+                "name": "Damià Pujol Salvador "
+              },
+              "title": {
+                "translation": "Mobilitat i transports sostenibles "
+              },
+              "body": {
+                "translation": "<p>Proposta per debatre el model de mobilitat i transport de mercaderies a Catalunya.</p><p>Cal un impuls de la mobilitat a través del tren, canvi de les prioritats d'inversió per tenir un xarxa de rodalies potent a tot el territori. La mobilitat amb vehicle privat encara que sigui elèctric no és sostenible. Pel que fa al transport de mercaderies també és necessari un canvi model. Cal un corredor ferroviari de mercaderies , tenir centenars de camions circulant per l'AP7 no és sostenible</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53327",
+                  "author": {
+                    "name": " Alfred Ruiz"
+                  },
+                  "body": "Crec que els trens elèctrics són millors que els tradicionals. Contribueixen a reduir significativament les emissions de carboni.",
+                  "alignment": 1,
+                  "comments": []
+                },
+                {
+                  "id": "53328",
+                  "author": {
+                    "name": " Alfred Ruiz"
+                  },
+                  "body": "Crec que els trens elèctrics són millors que els tradicionals. Contribueixen a reduir significativament les emissions de carboni.",
+                  "alignment": 0,
+                  "comments": [
+                    {
+                      "id": "53329",
+                      "author": {
+                        "name": "Lecea Alice "
+                      },
+                      "body": "Our giant dildo is made of various materials. According to your hobbies, choose the dildo that suits you. We mainly supply huge jelly dildo/huge silicone dildo/big glass dildo etc.https://www.hugedildo.com/",
+                      "alignment": 0
+                    },
+                    {
+                      "id": "53330",
+                      "author": {
+                        "name": "Lecea Alice "
+                      },
+                      "body": "Our giant dildo is made of various materials. According to your hobbies, choose the dildo that suits you. We mainly supply huge jelly dildo/huge silicone dildo/big glass dildo etc.https://www.hugedildo.com/",
+                      "alignment": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87509",
+              "state": null,
+              "author": {
+                "name": "JAIRO"
+              },
+              "title": {
+                "translation": "Panells solars en balcons i façanes"
+              },
+              "body": {
+                "translation": "<p>En el desplegament de l'energia fotovoltaica cal una normativa catalana que faciliti la instal·lació de panells solars en façanes i balcons de blocs de pisos. Actualment, això no existeix i depèn del criteri urbanístic de cada ajuntament, que davant el buit legal, solen denegar aquesta possibilitat. Caldria una disposició normativa de caràcter superior (similar a la que recull el Decret Llei 24/2021, que regula, p.ex., aquestes instal·lacions en pèrgoles d'aparcaments).</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87510",
+              "state": null,
+              "author": {
+                "name": "ENRIQUE"
+              },
+              "title": {
+                "translation": "Producció d'arròs ecològic i ètic"
+              },
+              "body": {
+                "translation": "<p>Es tracta d'un projecte, actualment en fase inicial d'execució, per a l'obtenció d'arròs ecològic (criteris del Consell Català de Producció d'Agricultura Ecològca, CCPAE) i en el que NO es produeix cap consum de combustibles fòsils.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87511",
+              "state": null,
+              "author": {
+                "name": "Rafael"
+              },
+              "title": {
+                "translation": "Urbanisme davant canvi climàtic "
+              },
+              "body": {
+                "translation": "<p>La integració d'arbres i elements naturals en l'urbanisme de les ciutats és essencial per millorar la qualitat de vida dels seus habitants i fomentar la sostenibilitat urbana. Aquests elements no només proporcionen espais verds que afavoreixen la salut i el benestar, sinó que també tenen un impacte positiu en la regulació del clima, la purificació de l'aire i la cohesió social.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87512",
+              "state": null,
+              "author": {
+                "name": "Nil Garcia"
+              },
+              "title": {
+                "translation": "Sobirania alimentària"
+              },
+              "body": {
+                "translation": "<p>La proposta més lògica i eficient per trobar un model d'alimentació sostenible pel futur depèn en bona part de la sobirania alimentària.</p><p>Catalunya és un país mediterrani amb una capacitat extraordinària per produir molts productes agroalimentaris que consumim en la nostra dieta alimentària. Els pagesos treballem per cultivar aliments de la millor qualitat.</p><p>Necessitem productes de temporada i de km. 0 a un preu just. I això implica posar aranzels als productes de fora de la UE.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87513",
+              "state": null,
+              "author": {
+                "name": "NURIA"
+              },
+              "title": {
+                "translation": "Substitució gradual de la benzina"
+              },
+              "body": {
+                "translation": "<p>Per a reduir la dependència del petroli, s'haurien de potenciar i homologar dispositius per tal de convertir qualsevol vehicle de benzina o dièsel en híbrid elèctric o en híbrid solar.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87514",
+              "state": null,
+              "author": {
+                "name": "Isidro Gomez Moraleda"
+              },
+              "title": {
+                "translation": "Dipòsit de reserva AEN+"
+              },
+              "body": {
+                "translation": "<p>Davant de les sequeres que están patint els conreus de secá, ens agradaria que ens donessin l’oportunitat de presentar-los una solució que té un cost d’execució molt baix, que l’amortització es inferior als 3 anys i que passat aquest temps el cost anual per disposar del volum d’aigua seria de 125 €.L’agricultor disposaria com a mínim de 59.000 litres/any, guardats en una instal·lació de 60m2, enmig de les terres de conreu per regar quan els cultius ho necessiten</p><p><br></p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87518",
+              "state": null,
+              "author": {
+                "name": "MARIA VICTORIA"
+              },
+              "title": {
+                "translation": "Reciclatge envasos remunerat"
+              },
+              "body": {
+                "translation": "<p>Reciclatge de envasos remunerat estil Finlandia. Al comprar en un supermercat es paga un sobrecost 20 o 10 cèntims Per cada envàs de plástic o llauna al mateix supermercat o d'altri es recicla mitjançant unes máquines que retornen la quantitat pagada mitjançant un ticket qué es pot utilitzar al mateix establiment</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87519",
+              "state": null,
+              "author": {
+                "name": "Toni A."
+              },
+              "title": {
+                "translation": "Voluntari per a l'Assamblea"
+              },
+              "body": {
+                "translation": "<p>Hola, em faig voluntari en cas necessari per participar a l'assemblea. Tinc formació científica (Doctorat en enginyeria) i gran interès pel tema. Tenim gran reptes per davant i crec que l'haurem d'afrontar col·lectivament. Salutacions.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87524",
+              "state": null,
+              "author": {
+                "name": "MANUEL"
+              },
+              "title": {
+                "translation": "Comissions locals de canvi climàtic "
+              },
+              "body": {
+                "translation": "<p>Crear xarxa local de comissions en àmbit comarcal amb participació i representació administrativa, empreses, entitats i especialment societat civil, per acostar la governança i participació ciutadana permanent amb referència a canvi climàtic: valorar accions àmbit local, emergències locals, definir plans mig i llarg termini, altres.</p><p>Comissions comarcals entre 5 i 9 participants. Participació d'experts adhoc. Informe bimensual per radiografiar la realitat del territori.</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87531",
+              "state": null,
+              "author": {
+                "name": "JOAN BESA RECASENS"
+              },
+              "title": {
+                "translation": "Fomentar la hidràulica reversible assistida per renovables"
+              },
+              "body": {
+                "translation": "<p> Impulsar la hidràulica reversible. Com per exemple la de Flix que per la meitat del cost d'una nuclear permet generar el mateix que 3 centrals nuclears.<br>Estudiar com reconvertir tots els embassaments de Catalunya existents en reversibles assistides per renovables.<br>Cal que els molins i parcs solars, en comptes de desconnectar-se quan no són&nbsp;necessaris, es dediquin a pujar aigua als embasaments de Catalunya. </p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87532",
+              "state": null,
+              "author": {
+                "name": "Marçal"
+              },
+              "title": {
+                "translation": "Reduir el consum, una necessitat."
+              },
+              "body": {
+                "translation": "<p>Tot i que les nostres butxaques puguin pagar el consum de recursos naturals que fem actualment, la nostre societat no pot mantenir aquest ritme i, per això, és necessari establir uns objectius d'obligat compliment per a la reducció del consum de recursos a les empreses, que podrien ser controlats pels controls mediambientals que ja passen actualment. i incentivar la creació de projectes d'autoconsum d'aigua i energia elèctrica per a particulars.</p>"
+              },
+              "category": null,
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87534",
+              "state": null,
+              "author": {
+                "name": "GEMMA"
+              },
+              "title": {
+                "translation": "El Robobo de la jojoya o el canvi climàtic"
+              },
+              "body": {
+                "translation": "<p>Deixar de robar les aigües subterrànees i es produirà un \"miracle\", plourà i s'acabarà la sequera.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87535",
+              "state": null,
+              "author": {
+                "name": "Isaac Agustí Ventura"
+              },
+              "title": {
+                "translation": "Proposta basada en les solucions que es presenten al projecte Drawdown i als objectius de desenvolupament sostenible de les Nacions Unides"
+              },
+              "body": {
+                "translation": "<p>La priorització ha de basar-se en les activitats que presenten un major impacte en els següents punts:</p><p>- Reduir les fonts de contaminació: producció energètica, alimentació, indústria, transport, infraestructures, etc</p><p>- Protegir i restaurar els mecanismes i processos d'absorció de gasos contaminants: gestió forestal, ecosistemes marins, agricultura, etc</p><p>- Millorar la societat: coneixement, implicació i benestar</p><p><br></p><p>Referències:</p><p>- https://drawdown.org</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87536",
+              "state": "withdrawn",
+              "author": {
+                "name": "Pau Ivern"
+              },
+              "title": {
+                "translation": "La solució és senzilla, només cal tenir ganes d'aplicar-la."
+              },
+              "body": {
+                "translation": "<p>Gran part del problema energètic i d’emissions prové del transport. La majoria de desplaçaments tenen menys de 5 km i&nbsp;es fan en automòbil perquè no hi han alternatives. El automòbil resulta car i està demostrat que no resulta el més ràpid per la majoria de trajectes.</p><p>Una solució clau per la millora de la dependència energètica, és potenciar l´ús de la bici. És viable i tinc la solució, però em falta espai per escriure-la en aquest apartat. Podeu contactar amb mi per més info.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87537",
+              "state": null,
+              "author": {
+                "name": "Joana Pi-Suñer"
+              },
+              "title": {
+                "translation": "Energies renovables, sobirania alimentaria i transport sostenible"
+              },
+              "body": {
+                "translation": "<p>És crucial promoure energies renovables mitjançant campanyes de&nbsp;sensibilització per a combatre el rebuig ciutadà cap a projectes descentralitzats. Donar suport a l'agroecologia local i petits productors és essencial per a l'alimentació sostenible. Prioritzar bio-combustibles a partir de residus per al transport pesat i el transport públic en carreteres. Escoltar la ciutadania i fomentar la participació en projectes climàtics són fonamentals. M'agradaria formar part de l'Assemblea.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87538",
+              "state": null,
+              "author": {
+                "name": "Pau Ivern"
+              },
+              "title": {
+                "translation": "La solució és senzilla, només cal tenir ganes d’aplicar-la."
+              },
+              "body": {
+                "translation": "<p>Gran part del problema energètic i d’emissions prové del transport. La majoria de desplaçaments tenen menys de 5 km i&nbsp;es fan en automòbil perquè no hi han alternatives. El automòbil resulta car i està demostrat que no resulta el més ràpid per la majoria de trajectes.</p><p>Una solució clau per la millora de la dependència energètica, és potenciar l´ús de la bici. És viable i tinc la solució, però em falta espai per escriure-la en aquest apartat. Podeu contactar amb mi per més info.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87582",
+              "state": null,
+              "author": {
+                "name": "BENOIT ROGER"
+              },
+              "title": {
+                "translation": "Baixar temperatura de les ciutats posant molt més arbres i ombra natural"
+              },
+              "body": {
+                "translation": "<p>Els beneficis de tenir molt més arbres a la ciutat són múltiples:</p><p>1- Baixen la temperatura de diversos graus</p><p>2- Filtren l'aire contaminat, millorant-ne la qualitat</p><p>3 - El sol és cancerigen. Els nens volen sortir fora. Necessiten aquesta protecció natural contra els UV</p><p>A cada reformes de carrers, noves urbanitzacions, pisos o cases noves, reformes, s'hauria d'obligar augmentar la zona verda. I als parcs existents, assegurar-se que hi ha més cobertura d'ombra natural</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53571",
+                  "author": {
+                    "name": "Sònia\tTió Pratdesaba"
+                  },
+                  "body": "Fer més àgils els tràmits per aconseguir més parcs eòlics i fotovoltaiques. Apostar per la biomassa, biogàs....\nFer un plan renove per quan t'hagis de canviar la caldera o qualsevol equipament de la llar, et surti més a compte fer.ho amb energia verda.\nPer exemple els que tenim calefacció de gasoil poder fer el canvi a biomassa,...\n",
+                  "alignment": 0,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87614",
+              "state": null,
+              "author": {
+                "name": "Encarnació"
+              },
+              "title": {
+                "translation": "Cadena Alimentaria"
+              },
+              "body": {
+                "translation": "<p>El cicle de la VIDA sense ordre, ni mesures ni pauses cicliques - ES FINIT-</p><p>Garantir el cumpliment de las normativas legals, qui Contamina Paga</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87616",
+              "state": null,
+              "author": {
+                "name": "SERGIO"
+              },
+              "title": {
+                "translation": "Mobilitat sostenible i altres propostes"
+              },
+              "body": {
+                "translation": "<p>Peatge urbà a ciutats de més de 50.000h habitants de mínim 2€ d'entrada i 2€ de sortida. Aquests diners han d'anar destinats al transport públic, molt especialment, a la xarxa Rodalies.tornar a posar peatges a les vies d'alta capacitat (AP-7 i altres), pàrquings de pagament a les grans ciutats i gratuïts al costat de les estacions de tren o d'autobús, tarifació per distància en el transport públic i tarificació social a tota Catalunya, no només a l'àmbit metropolità.</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": []
+            }
+          },
+          {
+            "node": {
+              "id": "87619",
+              "state": null,
+              "author": {
+                "name": "Domenec "
+              },
+              "title": {
+                "translation": "Fonts de aigua osmotitzada per reduir plastics"
+              },
+              "body": {
+                "translation": "<p>A molts llocs l'aigua de la xarxa es imposible de beurer, si els ajuntaments afectats instalessin locals on es dispenses aigua de la xarca osmotitzada i remineralitzada amb punta concrets on l'aigua es dolenta i tothom.consumeix ampollas de plastic, la gent podría recollirla amb envases propias, es podría fer de forma gratuita o pagament simbolic, els beneficios serían diversos, reduiriem molt el consumo de ampollas d'aigua i refresco i no es perdería aigua de rebuig de osmosi</p>"
+              },
+              "category": {
+                "id": "2541",
+                "name": {
+                  "translation": "Model d'alimentació pel futur"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53408",
+                  "author": {
+                    "name": "ALBERT"
+                  },
+                  "body": "No hi estic d'acord. l'Osmosi és un sistema car, que consumeix molta energia i malbarata una part molt important de l'aigua https://ca.wikipedia.org/wiki/Osmosi_(directa)\nCrec que cal prioritzar mesures que preservin la qualitat de l'aigua en origen evitant i penalitzant qui la contamina com ara els abocaments industrials, les dejeccions de la indústria ramadera o les aigües residuals no depurades.\nAlternativament quan l'aigua és potable però té gust, aquesta es pot filtrar a un cost molt menor i sense despesa energètica mitjançant filtres de carboni actiu.\n",
+                  "alignment": -1,
+                  "comments": []
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "87628",
+              "state": null,
+              "author": {
+                "name": "GEMMA"
+              },
+              "title": {
+                "translation": "Transport marítim sostenible fins a Barcelona"
+              },
+              "body": {
+                "translation": "<p>Benvolguts, agrairia que es valorés la possibilitat i la viabilitat d'implementar un servei marítim impulsat per energies renovables per a transportar viatgers amb trasllats regulars diaris (matins - migdia - tarda) d'Arenys - Mataró i Vilanova - Sitges fins a Barcelona per mar i tornada.</p><p>Ho penso com alternativa sostenible per la saturació del transport ferroviari i les limitacions, temps i la contaminació que suposa arribar a la ciutat per carretera.</p><p>Moltes gràcies!</p>"
+              },
+              "category": {
+                "id": "2540",
+                "name": {
+                  "translation": "Desplegament de les energies renovables"
+                }
+              },
+              "voteCount": 0,
+              "comments": [
+                {
+                  "id": "53425",
+                  "author": {
+                    "name": "ALBERT"
+                  },
+                  "body": "El primer que hem de saber és si és possible cobrir el trajecte del port de Mataró al Maremagnum de Barcelona en menys dels 50 minuts que triga el tren de Mataró a Sants? Si no és competitiu amb temps amb el tren serà difícil entrar a avaluar si és viable econòmicament i la resta de variables.\n",
+                  "alignment": 0,
+                  "comments": []
+                },
+                {
+                  "id": "53426",
+                  "author": {
+                    "name": "GEMMA"
+                  },
+                  "body": "Bon dia, \nS'hauria de veure, efetivament, però el planejament seria per transport directe sense parades. Caldria veure si la tecnologia permet el transport sostenible de viatgers per mar a un cost raonable per l'usuari i sense malmetre el medi ambient. ",
+                  "alignment": 0,
+                  "comments": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
