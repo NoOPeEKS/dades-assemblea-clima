@@ -1,0 +1,67 @@
+{
+  participatoryProcesses(
+    filter: { publishedSince: "2023-09-12", publishedBefore: "2023-09-14" }
+  ) {
+    # Agafem el procés d'assemblea pel clima
+    id
+    slug # El que va després de la url per denominar quin procés és /assembleaclima
+    publishedAt
+    stats {
+      name
+      value
+    }
+    components(filter: { name: "Propostes Ciutadanes" }) {
+      #Agafem només el component de propostes ciutadanes
+      id
+      name {
+        translation(locale: "ca")
+      }
+      ... on Proposals {
+        # N'agafem el conjunt global de propostes que té el procés
+        proposals {
+          edges {
+            node {
+              ... on Proposal {
+                # Aquí tenim cadascuna de les propostes individuals
+                id # Id de la proposta
+                state # Estat de la proposta
+                author {
+                  name # Nom de l'autor
+                }
+                title {
+                  translation(locale: "ca") # Títol de la proposta
+                }
+                body {
+                  translation(locale: "ca") # Text de la proposta
+                }
+                category {
+                  id # Id de la categoria
+                  name {
+                    translation(locale: "ca") # Nom de la categoria
+                  }
+                }
+                voteCount # Nombre de vots rebuts
+                comments {
+                  id # Id del comentari
+                  author {
+                    name # Autor del comentari
+                  }
+                  body # Text de la proposta
+                  alignment # Neutral, favor o en contra
+                  comments {
+                    id # Id del subcomment
+                    author{
+                      name # Autor del subcomment
+                    }
+                    body # Text del subcomment
+                    alignment # Posicionament del subcomment
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
