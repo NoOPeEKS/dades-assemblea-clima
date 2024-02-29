@@ -2,59 +2,55 @@
   participatoryProcesses(
     filter: { publishedSince: "2023-09-12", publishedBefore: "2023-09-14" }
   ) {
-    # Agafem el procés d'assemblea pel clima
     id
-    slug # El que va després de la url per denominar quin procés és /assembleaclima
+    slug
     publishedAt
     stats {
       name
       value
     }
     components(filter: { name: "Propostes Ciutadanes" }) {
-      #Agafem només el component de propostes ciutadanes
       id
       name {
         translation(locale: "ca")
       }
       ... on Proposals {
-        # N'agafem el conjunt global de propostes que té el procés
         proposals {
           edges {
             node {
               ... on Proposal {
-                # Aquí tenim cadascuna de les propostes individuals
-                id # Id de la proposta
-                state # Estat de la proposta
+                id
+                state
                 author {
-                  name # Nom de l'autor
+                  name
                 }
                 title {
-                  translation(locale: "ca") # Títol de la proposta
+                  translation(locale: "ca")
                 }
                 body {
-                  translation(locale: "ca") # Text de la proposta
+                  translation(locale: "ca")
                 }
                 category {
-                  id # Id de la categoria
+                  id
                   name {
-                    translation(locale: "ca") # Nom de la categoria
+                    translation(locale: "ca")
                   }
                 }
-                voteCount # Nombre de vots rebuts
+                voteCount
                 comments {
-                  id # Id del comentari
+                  id
                   author {
-                    name # Autor del comentari
+                    name
                   }
-                  body # Text de la proposta
-                  alignment # Neutral, favor o en contra
+                  body
+                  alignment
                   comments {
-                    id # Id del subcomment
-                    author{
-                      name # Autor del subcomment
+                    id
+                    author {
+                      name
                     }
-                    body # Text del subcomment
-                    alignment # Posicionament del subcomment
+                    body
+                    alignment
                   }
                 }
               }
