@@ -3,3 +3,6 @@ pandas
 seaborn
 matplotlib
 scikit-learn
+ydata-profiling
+llvmlite
+category_encoders
