@@ -6,3 +6,5 @@ scikit-learn
 ydata-profiling
 llvmlite
 category_encoders
+gensim
+nltk
