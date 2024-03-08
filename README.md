@@ -3,7 +3,25 @@ dades_assemblea_clima
 
 Anàlisi i modelatge de les dades open-source de l'Assemblea Ciutadana pel Clima de Catalunya.
 
-Project Organization
+
+## Resum
+Aquest projecte conté les dades extretes sobre les propostes fetes a [l'Assemblea Ciutadana pel Clima de Catalunya](https://participa.gencat.cat/processes/assembleaclima)
+S'ha realitzat un anàlisi de les dades i un posterior tractament per aplicar un model de Topic Modeling.
+
+## Objectiu
+Detectar de forma automàtica els tòpics de cada proposta i entendre quines variables fan que una proposta tingui més engagement i possibilitats de ser aprovada.
+
+## Preprocessing
+El dataset contenia moltes propostes de diferents processos participatius i ha calgut acotar-ne les dades per poder treballar únicament amb les de l'Assemblea. La majoria de columnes originals eren buides i s'ha optat per prescindir-ne. Finalment, s'han eliminat també les columnes que es consideren innecessàries per treballar amb un model de Topic Modeling, tals com id, url, etc...
+
+## Requisits
+- Pandas
+- Matplotlib
+- Seaborn
+- ydata-profiling
+- gensim
+
+## Project Organization
 ------------
 
     ├── LICENSE
@@ -53,5 +71,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
