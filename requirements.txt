@@ -21,4 +21,5 @@ category_encoders
 gensim
 nltk
 scipy
+spacy
 stop-words
