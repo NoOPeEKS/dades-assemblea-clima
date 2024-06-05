@@ -1,27 +1,20 @@
 dades_assemblea_clima
 ==============================
 
-Anàlisi i modelatge de les dades open-source de l'Assemblea Ciutadana pel Clima de Catalunya.
+Anàlisi i modelatge de les dades open-source de l'Assemblea Ciutadana pel Clima de Catalunya i de Barcelona.
 
 
 ## Resum
-Aquest projecte conté les dades extretes sobre les propostes fetes a [l'Assemblea Ciutadana pel Clima de Catalunya](https://participa.gencat.cat/processes/assembleaclima)
-S'ha realitzat un anàlisi de les dades i un posterior tractament per aplicar un model de Topic Modeling.
+Aquest projecte conté les dades extretes sobre les propostes fetes a [l'Assemblea Ciutadana pel Clima de Catalunya](https://participa.gencat.cat/processes/assembleaclima) i a [l'Assemblea Ciutadana pel Clima de Barcelona](https://www.decidim.barcelona/processes/AssembleaClima).
+S'ha realitzat un anàlisi de les dades i un posterior tractament per aplicar diversos models de Topic Modeling.
 
 ## Objectiu
-Detectar de forma automàtica els tòpics de cada proposta i entendre quines variables fan que una proposta tingui més engagement i possibilitats de ser aprovada.
+Detectar de forma automàtica els tòpics de cada proposta i entendre quins són els tòpics que més interès i preocupació generen a la ciutadania mitjançant la interacció rebuda i l'estat d'aprovació de cada proposta.
 
-## Preprocessing
-El dataset contenia moltes propostes de diferents processos participatius i ha calgut acotar-ne les dades per poder treballar únicament amb les de l'Assemblea. La majoria de columnes originals eren buides i s'ha optat per prescindir-ne. Finalment, s'han eliminat també les columnes que es consideren innecessàries per treballar amb un model de Topic Modeling, tals com id, url, etc...
+## Estudi
+Es pot trobar el report de l'estudi al fitxer [Decidim_Analysis.pdf](./reports/Decidim_Analysis.pdf) on es descriu tot el procés i les conclusions obtingudes.
 
-## Requisits
-- Pandas
-- Matplotlib
-- Seaborn
-- ydata-profiling
-- gensim
-
-## Project Organization
+## Estructura del projecte
 ------------
 
     ├── LICENSE
